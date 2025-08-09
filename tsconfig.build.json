@@ -8,6 +8,9 @@
       "path": "packages/atom-react/tsconfig.build.json"
     },
     {
+      "path": "packages/atom-solid/tsconfig.build.json"
+    },
+    {
       "path": "packages/atom-vue/tsconfig.build.json"
     }
   ]
